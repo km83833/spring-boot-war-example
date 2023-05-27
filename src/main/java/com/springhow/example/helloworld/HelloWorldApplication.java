@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "ICHIBAAAAAAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNNNNNN";
+        return "ICHI I MADE THIS BY JENKINS PIPELINE WHICH CREATES A WAR FILE OUT OF JAVA CODE AND DEPLOY IT TO TOMCAT SERVER WHICH IS RUNNING ON AWS EC2";
     }
 
 }
